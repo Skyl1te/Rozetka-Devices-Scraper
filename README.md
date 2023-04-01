@@ -36,4 +36,4 @@
 <p>If you find a bug or would like to suggest a new feature, please open an issue or submit a pull request. Contributions are always welcome!</p>
 
 <h2>Developers</h2>
-<h3><a href="github.com/Skyl1te">@Skyl1te</a></h3>
+<h3><a href="https://github.com/Skyl1te">@Skyl1te</a></h3>
